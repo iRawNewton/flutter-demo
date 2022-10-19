@@ -1,6 +1,6 @@
-# tech_variable
+# Demo app particularly developed to demonstrate flutter skills for job offerings
 
-A new Flutter project.
+A simple Flutter app.
 
 ## Getting Started
 
